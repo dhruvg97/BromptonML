@@ -149,5 +149,5 @@ def create_montages(nested_dict, output_dir,number):
 
 
 output_dir = "/Users/dhruvgupta/Documents/GitHub/BromptonML/Geti/Data"
-create_montages(nested_dict, output_dir,5)
+create_montages(nested_dict, output_dir,10)
 
